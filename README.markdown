@@ -17,13 +17,13 @@ Cipher64 is a hybrid encryption system designed to securely obscure names or sho
    ```
 2. Run the Python script:
    ```bash
-   python encrypt.py
+   python cipher64.py
    ```
 3. Input a name (e.g., "Heav") to get an encrypted output (e.g., "S2hkeQ==").
 
 ## Example
 ```python
-from encrypt import encrypt_name
+from cipher64 import encrypt_name
 name = "Heav"
 encrypted = encrypt_name(name, shift=3)
 print(f"Encrypted: {encrypted}")  # Output: S2hkeQ==
