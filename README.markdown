@@ -1,9 +1,9 @@
-# CipherHeav64
+# Cipher64
 
-A cryptic fusion of Caesar cipher and Base64 encoding, CipherHeav64 conceals names and sensitive data in layered shadows. Perfect for lightweight, enigmatic encryption.
+A cryptic fusion of Caesar cipher and Base64 encoding, Cipher64 conceals names and sensitive data in layered shadows. Perfect for lightweight, enigmatic encryption.
 
 ## Overview
-CipherHeav64 is a hybrid encryption system designed to securely obscure names or short strings. It combines a Caesar cipher (with a configurable shift) and Base64 encoding to create a simple yet effective encryption pipeline. Ideal for developers seeking a minimalistic approach to data obfuscation.
+Cipher64 is a hybrid encryption system designed to securely obscure names or short strings. It combines a Caesar cipher (with a configurable shift) and Base64 encoding to create a simple yet effective encryption pipeline. Ideal for developers seeking a minimalistic approach to data obfuscation.
 
 ## Features
 - **Caesar Cipher**: Shifts letters to mask the original text.
@@ -13,7 +13,7 @@ CipherHeav64 is a hybrid encryption system designed to securely obscure names or
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CipherHeav64.git
+   git clone https://github.com/thehidesofheav/CipherHeav64.git
    ```
 2. Run the Python script:
    ```bash
