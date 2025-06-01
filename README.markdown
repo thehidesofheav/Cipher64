@@ -13,7 +13,7 @@ Cipher64 is a hybrid encryption system designed to securely obscure names or sho
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thehidesofheav/CipherHeav64.git
+   git clone https://github.com/thehidesofheav/Cipher64.git
    ```
 2. Run the Python script:
    ```bash
